@@ -1,0 +1,20 @@
+{
+    "name": "tuilasiunhan/package-algorithm",
+    "description": "Package Algorithm",
+    "type": "php",
+    "license": "v1.0",
+    "authors": [
+        {
+            "name": "Nguyễn Văn Anh",
+            "email": "nguyenvananh.connect@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "tuilasiunhan\\resource": "src/"
+        }
+    }
+}
